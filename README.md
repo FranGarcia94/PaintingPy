@@ -2,7 +2,7 @@
 
 [![Python_version](https://img.shields.io/badge/Python-v3.10.2-blueviolet?style=flat&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3102/)
 ![](https://custom-icon-badges.herokuapp.com/github/license/FranGarcia94/PaintingPy?logo=law)
-![](https://badge-size.herokuapp.com/FranGarcia94/PaintingPy/master/paintingpy.py)
+![](https://badge-size.herokuapp.com/FranGarcia94/PaintingPy/main/paintingpy.py)
 
 ![Tkinter](https://img.shields.io/badge/Tkinter-orange?style=flat)
 ![Canvas](https://img.shields.io/badge/Canvas-red?style=flat)
