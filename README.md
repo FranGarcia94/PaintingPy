@@ -117,7 +117,7 @@ In the same way as in the other modes you can use one-click to create the shapes
 
 | One-Click | Drag |
 | -- | -- |
-|<img src="https://user-images.githubusercontent.com/107102754/187003575-6981281c-cd98-4c9f-a099-4022399ca2e7.gif" width="400"/> | <img src="https://user-images.githubusercontent.com/107102754/187004018-f9793e67-64da-44c6-8cfc-56492bde0ea1.gif" width="400"/>|
+|<img src="https://user-images.githubusercontent.com/107102754/187003575-6981281c-cd98-4c9f-a099-4022399ca2e7.gif" width="425"/> | <img src="https://user-images.githubusercontent.com/107102754/187004018-f9793e67-64da-44c6-8cfc-56492bde0ea1.gif" width="425"/>|
 
 # Save and Clear
 
