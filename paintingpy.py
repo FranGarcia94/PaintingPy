@@ -20,7 +20,7 @@ def choose_color():
     color = askcolor()
     color_button.config(bg = color[1])
 
-    return color[1]
+    return color
 
 
 def outline_color():
@@ -29,7 +29,7 @@ def outline_color():
     color_outline = askcolor()
     color_outline_button.config(bg = color_outline[1])
 
-    return color_outline[1]
+    return color_outline
 
 
 def paint( event ):
