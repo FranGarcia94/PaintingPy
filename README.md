@@ -6,7 +6,7 @@
 
 ![Tkinter](https://img.shields.io/badge/Tkinter-orange?style=flat)
 ![Canvas](https://img.shields.io/badge/Canvas-red?style=flat)
-![Pillow](https://img.shields.io/badge/Pillow-gray?style=flat)
+![Pillow](https://img.shields.io/badge/Pillow-saddlebrown?style=flat)
 ![Paint](https://img.shields.io/badge/Paint-green?style=flat)
 
 <p align = "center">
