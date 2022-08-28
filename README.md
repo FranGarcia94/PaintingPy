@@ -4,11 +4,6 @@
 ![](https://custom-icon-badges.herokuapp.com/github/license/FranGarcia94/PaintingPy?logo=law)
 ![](https://badge-size.herokuapp.com/FranGarcia94/PaintingPy/main/paintingpy.py)
 
-![Tkinter](https://img.shields.io/badge/Tkinter-orange?style=flat)
-![Canvas](https://img.shields.io/badge/Canvas-red?style=flat)
-![Pillow](https://img.shields.io/badge/Pillow-saddlebrown?style=flat)
-![Paint](https://img.shields.io/badge/Paint-green?style=flat)
-
 <p align = "center">
 <a href="https://www.flaticon.es/iconos-gratis/panel-solar"><img src="https://user-images.githubusercontent.com/107102754/186997276-59004b6d-0738-4ca2-a28a-8189a8299411.png" width=370/></a>
 </p>
@@ -17,6 +12,11 @@
 </p>
 
 # Introduction
+
+![Tkinter](https://img.shields.io/badge/Tkinter-orange?style=flat)
+![Canvas](https://img.shields.io/badge/Canvas-darkred?style=flat)
+![Paint](https://img.shields.io/badge/Paint-darkblue?style=flat)
+![Pillow](https://img.shields.io/badge/Pillow-saddlebrown?style=flat)
 
 This GUI has been developed in Python and is based on Tkinter and Canvas to create a simple but interesting drawing experience, especially in a didactic way. The interface is as follows:
 
